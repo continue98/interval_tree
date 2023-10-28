@@ -1,3 +1,3 @@
 # TODO
-readme
-unit-tests
+* readme
+* unit-tests
